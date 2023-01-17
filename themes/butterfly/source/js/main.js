@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const menusWidth = getAllWidth(document.getElementById('menus').children)
       headerContentWidth = blogInfoWidth + menusWidth
       $nav = document.getElementById('nav')
+      
     }
 
     let hideMenuIndex = ''
@@ -734,6 +735,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const addPostOutdateNotice = function () {
     const data = GLOBAL_CONFIG.noticeOutdate
     const diffDay = btf.diffDate(GLOBAL_CONFIG_SITE.postUpdate)
+    
     if (diffDay >= data.limitDay) {
       const ele = document.createElement('div')
       ele.className = 'post-outdate-notice'
@@ -786,6 +788,17 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       GLOBAL_CONFIG.relativeDate.homepage && relativeDate(document.querySelectorAll('#recent-posts time'))
       GLOBAL_CONFIG.runtime && addRuntime()
+      //计算春节时间
+      var dt = new Date();
+      var nY = dt.getFullYear();
+      var nM = dt.getMonth() + 1;
+      var nD = dt.getDate();
+      var CNYY = 2023
+      var CNYM = 1
+      var CNYD = 22
+      nowDate = new Date(nY, nM - 1, nD);
+      CNYDate = new Date(CNYY, CNYM - 1, CNYD);
+      document.getElementById("WhenNewYear").innerHTML = (CNYDate - nowDate) / 86400000 + " 天";
       addLastPushDate()
       toggleCardCategory()
     }
@@ -808,18 +821,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('toggle-menu').addEventListener('click', () => { sidebarFn.open() })
   }
 
-  //计算春节时间
-  var date = new Date();
-  var nY = date.getFullYear();
-  var nM = date.getMonth() + 1;
-  var nD = date.getDate();
-  var CNYY = 2023
-  var CNYM = 1
-  var CNYD = 22
-  nowDate = new Date(nY, nM - 1, nD);
-  CNYDate = new Date(CNYY, CNYM - 1, CNYD);
-  document.getElementById("WhenNewYear").innerHTML = (CNYDate - nowDate) / 86400000 + " 天";
-
+  
   refreshFn()
   unRefreshFn()
 })
