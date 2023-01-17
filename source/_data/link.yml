@@ -1,0 +1,97 @@
+- class_name: 友情链接
+  class_desc: 这里是我的朋友们，你也可以发送邮件到mail_set@mailset.top来添加你的链接
+  link_list: 
+  # - name: 
+  #   link: 
+  #   avatar: 
+  #   descr: 
+
+  - name: Souiken's Blog
+    link: https://blog.soda.net.cn/
+    avatar: https://blog.soda.net.cn/images/le.png
+    descr: The website only is a blog.
+
+  - name: Old_Whale的博客
+    link: https://www.cube-aquarium.link/
+    avatar: https://s2.loli.net/2023/01/15/6gftiMB3XcKCxrN.png
+    descr: 看, 这就是生活. 老鲸的记忆...
+
+
+  - name: GuCATs'摸鱼站
+    link: https://goo-aw233.github.io/
+    avatar: https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Blog/Avatar.jpg
+    descr: 猫猫的博客捏
+
+  - name: 好耶的博客
+    link: https://cloudw233.netlify.app
+    avatar: https://cloudw233.netlify.app/assets/img/favicon.ico
+    descr: 晚安玛卡巴卡
+
+  - name: 朝色的博客
+    link: https://blog.zhaose.cyou
+    avatar: https://blog.zhaose.cyou/images/avatar.webp
+    descr: 朝色的博客、澄みわたる朝色のBLOG
+
+  - name: 翎的小窝 
+    link: https://matrix-feather.github.io
+    avatar: https://raw.githubusercontent.com/MATRIX-feather/MATRIX-feather.github.io/master/assets/avatar.jpg
+    descr: 一只老鸽子的博客 
+
+  - name: HomoのWebsite
+    link: https://114514.store
+    avatar: https://114514.store/homo.jpeg
+    descr: Just Homo
+
+  - name: 云默安的博客
+    link: https://yma.zyghit.cn/
+    avatar: https://obs.cstcloud.cn/share/obs/zgitziyuanwenjian/QQ%E5%9B%BE%E7%89%8720210523212348.jpg
+    descr: 追随心中的信念
+
+  - name: 昼湖的博客 - Zhouhu'Bolg
+    link: https://gitpor.cn/
+    avatar: https://gitpor.cn/favicon.ico
+    descr: The biggest obstacle in life is loneliness, we can neither understand nor solve loneliness, but loneliness can prompt Qianfda
+
+  - name: CrnEilns饮茶室
+    link: https://blog.crneilns.top
+    avatar: https://cdn.jsdelivr.net/gh/Goo-aw233/WebSiteResources/Pics/Blog/Avatar.jpg
+    descr: 这个猫傻掉了捏
+
+  - name: 23335507的生草小站
+    link: https://www.233355607.xyz/
+    avatar: https://user-images.githubusercontent.com/81961962/211612747-2a8cd8ca-d9dc-43e1-8c0c-c0dc4545af6e.gif
+    descr: 草还是草
+
+- class_name: 其他推荐的服务
+  class_desc: 注意，以下服务可能需要您有IPv6才可以访问，您可以点击第一个“IPv6测试”来测试您是否有IPv6。且我的服务是在个人电脑上，不一定能24小时可以访问
+  link_list: 
+  # - name: 
+  #   link: 
+  #   avatar: 
+  #   descr: 
+
+    - name: IPv6测试
+      link: https://testipv6.cn
+      avatar: https://testipv6.cn/images/favicon.ico
+      descr: 本站能测试你的浏览器和网络是否支持 IPv6，并显示你当前的 IPv4 和 IPv6 地址。
+    
+    - name: mail_set的小仓库
+      link: https://disks.mailset.top
+      avatar: https://mailset.top/img/favicon.png
+      descr: mail_set的小仓库终于上线了捏 | 基于AList的网盘
+
+    - name: Google搜索
+      link: https://www.google/
+      avatar: https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png
+      descr: 中国大陆的用户可能无法访问
+
+    - name: Bing搜索
+      link: https://www.bing/
+      avatar: https://ts3.cn.mm.bing.net/th?id=ODLS.87518fab-8fc1-4893-a7f1-c7d88283a35a&w=16&h=16&o=6&pid=1.2
+      descr: 除了Google以外最好的搜索引擎（个人认为），并且可以在国内访问
+
+    - name: BiliBili
+      link: https://bilibili.com/
+      avatar: https://www.bilibili.com/favicon.ico
+      descr: 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
+
