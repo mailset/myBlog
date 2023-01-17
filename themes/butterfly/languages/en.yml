@@ -67,6 +67,7 @@ aside:
     runtime:
       name: Run time
       unit: days
+    beforeChineseNewYear: The time before Chinese New Year
     last_push_date:
       name: Last Push
     site_wordcount: Total Count

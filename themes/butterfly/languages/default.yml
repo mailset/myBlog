@@ -68,6 +68,7 @@ aside:
     runtime:
       name: 已运行时间
       unit: 天
+    beforeChineseNewYear: 距离春节还有
     last_push_date:
       name: 最后更新时间
     site_wordcount: 本站总字数
