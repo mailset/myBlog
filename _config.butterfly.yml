@@ -205,14 +205,14 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+    - img: /img/Alipay.jpg
+      link:
+      text: 支付宝
+    - img: /img/WeChat.jpg
+      link:
+      text: 微信
 
 # Post edit
 # Easily browse and edit blog source code online.
