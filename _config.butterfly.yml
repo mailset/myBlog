@@ -317,7 +317,7 @@ valine:
   appId: pOC2J8dk4Dy1krZxbhYUVOb1-MdYXbMMI # leancloud application app id
   appKey: Jdohs07GEGXyr6j1JTIuEMOY # leancloud application app key
   avatar: blank # gravatar style https://valine.js.org/#/avatar
-  serverURLs: https://pOC2J8dk.api.lncldglobal.com# This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+  serverURLs: https://pOC2J8dk.api.lncldglobal.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
   visitor: false
   option:
