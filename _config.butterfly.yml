@@ -21,7 +21,7 @@ nav_info:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: darker #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -96,7 +96,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://imgcdn.mailset.top/blogCover.png
+index_img: https://img.mailset.top/blogCover.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
