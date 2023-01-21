@@ -1,20 +1,21 @@
 ---
 title: 猫片
 date: 2023-01-12 14:01:21
+top_img: https://img.mailset.top/Cats/2023/01/21/Cat5.jpg
 ---
 
 ## 2023-01-21 更新
 
 {% gallery %}
 
-![宠物店里蓝猫](https://img.mailset.top/2023/01/21/Blue.jpg)
-![机厅里的狗](https://img.mailset.top/2023/01/21/Dog.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat1.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat2.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat3.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat4.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat5.jpg)
-![自己家的](https://img.mailset.top/2023/01/21/Cat6.jpg)
+![宠物店里蓝猫](https://img.mailset.top/Cats/2023/01/21/Blue.jpg)
+![机厅里的狗](https://img.mailset.top/Cats/2023/01/21/Dog.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat1.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat2.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat3.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat4.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat5.jpg)
+![自己家的](https://img.mailset.top/Cats/2023/01/21/Cat6.jpg)
 
 {% endgallery %}
 

@@ -1,6 +1,7 @@
 ---
 title: 图库
 date: 2023-01-12 14:11:44
+top_img: https://img.mailset.top/GalleryCover.png
 ---
 
 ## 这里是我拍的一些图片www
