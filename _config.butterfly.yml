@@ -209,10 +209,10 @@ reward:
   enable: true
   QR_code:
     - img: /img/Alipay.jpg
-      link:
+      link: https://mailset.top/img/Alipay.jpg
       text: 支付宝
-    - img: /img/WeChat.jpg
-      link:
+    - img: /img/WeChat.png
+      link: https://mailset.top/img/WeChat.png
       text: 微信
 
 # Post edit
