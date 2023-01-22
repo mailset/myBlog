@@ -793,9 +793,9 @@ document.addEventListener('DOMContentLoaded', function () {
       var nY = dt.getFullYear();
       var nM = dt.getMonth() + 1;
       var nD = dt.getDate();
-      var CNYY = 2023
-      var CNYM = 1
-      var CNYD = 22
+      var CNYY = 2024
+      var CNYM = 2
+      var CNYD = 10
       nowDate = new Date(nY, nM - 1, nD);
       CNYDate = new Date(CNYY, CNYM - 1, CNYD);
       document.getElementById("WhenNewYear").innerHTML = (CNYDate - nowDate) / 86400000 + " 天";
