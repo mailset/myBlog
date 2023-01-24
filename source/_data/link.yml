@@ -61,6 +61,14 @@
     avatar: https://user-images.githubusercontent.com/81961962/211612747-2a8cd8ca-d9dc-43e1-8c0c-c0dc4545af6e.gif
     descr: 草还是草
 
+- class_name: QQ群友情推荐
+  class_desc: 这里是我创建/管理/推荐的群
+  link_list: 
+    - name: Archlinux交流群
+      link: https://jq.qq.com/?_wv=1027&k=x7sdnByR
+      avatar: https://img.mailset.top/ArchLinuxAvatar.jpg
+      descr: 欢迎ArchLinux爱好者加入，不推荐manjaro
+
 - class_name: 其他推荐的服务
   class_desc: 注意，以下服务可能需要您有IPv6才可以访问，您可以点击第一个“IPv6测试”来测试您是否有IPv6。且我的服务是在个人电脑上，不一定能24小时可以访问
   link_list: 
