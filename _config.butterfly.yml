@@ -5,7 +5,6 @@
 menu:
   主页: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
-  新年快乐！ : /NewYear/ || fas fa-champagne-glasses
   标签: /tags/ || fas fa-tags
   友情链接: /link/ || fas fa-link
   我喜欢的音乐: /music/ || fas fa-music
