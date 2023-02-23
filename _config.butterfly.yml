@@ -608,8 +608,8 @@ display_mode: light
 beautify:
   enable: true
   field: post # site/post
-  title-prefix-icon: # '\f0c1'
-  title-prefix-icon-color: # '#F47466'
+  title-prefix-icon: '\f863'
+  title-prefix-icon-color: '#F47466'
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -657,9 +657,9 @@ preloader:
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
-  source: 2
+  source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url:
+  pace_css_url: /css/progress_bar.css
 
 # aside (側邊欄)
 # --------------------------------------
@@ -894,6 +894,10 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css">
   bottom:
     - <script src="/js/cursor.js"></script>
+    - <script async src="/js/title.js"></script>
+    - <script defer type="text/javascript" src="https://cdn1.tianli0.top/npm/sweetalert2@8.19.0/dist/sweetalert2.all.js"></script> # 节日弹窗依赖
+    - <script defer src="/js/lunar.js"></script> # 农历计算
+    - <script defer src="/js/day.js"></script> # 节日弹窗
 
 wowjs:
   enable: true #控制动画开关。true是打开，false是关闭
