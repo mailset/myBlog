@@ -46,7 +46,7 @@ tags:
 
 ![你不觉得这很酷吗，很符合我对未来的想象](https://img.mailset.top/ShareX/2023/03/msedge_l2OtiRasGA.png)
 
-第一个就是中文域名 ，对应的是 [博客.mailset.top](xn--9krq6q.mailset.top)
+第一个就是中文域名 ，对应的是 [博客.mailset.top](https://xn--9krq6q.mailset.top)
 
 ---
 
